@@ -1,0 +1,10 @@
+;paint.net Palette File
+;Downloaded from Lospec.com/palette-list
+;Palette Name: Wetland
+;Description: 
+;Colors: 5
+FFd4f5c6
+FFa9c1ac
+FF40b56f
+FF2a7a64
+FF123c45
